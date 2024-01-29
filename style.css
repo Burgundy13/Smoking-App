@@ -1,0 +1,28 @@
+body {
+	background-color: crimson;
+}
+
+.navbar {
+	background-color: orangered;
+}
+
+.card {
+	padding: 0 30px 30px 30px;
+	margin: 10px;
+	background-color: whitesmoke;
+	color: darkblue;
+}
+
+.card span {
+	font-size: 16px;
+}
+
+.card p {
+	font-size: 19px;
+	margin-top: 20px;
+}
+
+label {
+	display: block;
+	margin-bottom: 15px;
+}
